@@ -590,3 +590,8 @@ section {
         font-size: 4.3rem;
     }
 }
+@media (max-width: 600px) {
+    .home {
+        background-image: url(images/home-bg3-m.png);
+    }
+}
